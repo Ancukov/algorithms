@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\bin\Debug\net5.0\getStatuss.exe
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\bin\Debug\net5.0\getStatuss.deps.json
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\bin\Debug\net5.0\getStatuss.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\bin\Debug\net5.0\getStatuss.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\bin\Debug\net5.0\getStatuss.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\bin\Debug\net5.0\ref\getStatuss.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\bin\Debug\net5.0\getStatuss.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\obj\Debug\net5.0\getStatuss.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\obj\Debug\net5.0\getStatuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\obj\Debug\net5.0\getStatuss.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\obj\Debug\net5.0\getStatuss.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\obj\Debug\net5.0\getStatuss.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\obj\Debug\net5.0\getStatuss.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\obj\Debug\net5.0\ref\getStatuss.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\obj\Debug\net5.0\getStatuss.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\getStatuss\obj\Debug\net5.0\getStatuss.genruntimeconfig.cache

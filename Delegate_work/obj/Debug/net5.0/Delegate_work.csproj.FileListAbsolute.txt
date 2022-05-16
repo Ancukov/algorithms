@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\bin\Debug\net5.0\Delegate_work.exe
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\bin\Debug\net5.0\Delegate_work.deps.json
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\bin\Debug\net5.0\Delegate_work.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\bin\Debug\net5.0\Delegate_work.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\bin\Debug\net5.0\Delegate_work.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\bin\Debug\net5.0\ref\Delegate_work.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\bin\Debug\net5.0\Delegate_work.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\obj\Debug\net5.0\Delegate_work.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\obj\Debug\net5.0\Delegate_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\obj\Debug\net5.0\Delegate_work.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\obj\Debug\net5.0\Delegate_work.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\obj\Debug\net5.0\Delegate_work.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\obj\Debug\net5.0\Delegate_work.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\obj\Debug\net5.0\ref\Delegate_work.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\obj\Debug\net5.0\Delegate_work.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\Delegate_work\obj\Debug\net5.0\Delegate_work.genruntimeconfig.cache

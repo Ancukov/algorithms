@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\bin\Debug\net5.0\jumpSearch.exe
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\bin\Debug\net5.0\jumpSearch.deps.json
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\bin\Debug\net5.0\jumpSearch.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\bin\Debug\net5.0\jumpSearch.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\bin\Debug\net5.0\jumpSearch.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\bin\Debug\net5.0\ref\jumpSearch.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\bin\Debug\net5.0\jumpSearch.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\obj\Debug\net5.0\jumpSearch.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\obj\Debug\net5.0\jumpSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\obj\Debug\net5.0\jumpSearch.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\obj\Debug\net5.0\jumpSearch.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\obj\Debug\net5.0\jumpSearch.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\obj\Debug\net5.0\jumpSearch.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\obj\Debug\net5.0\ref\jumpSearch.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\obj\Debug\net5.0\jumpSearch.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\jumpSearch\obj\Debug\net5.0\jumpSearch.genruntimeconfig.cache

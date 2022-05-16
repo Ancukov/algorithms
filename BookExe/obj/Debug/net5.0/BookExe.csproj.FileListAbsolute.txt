@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\obj\Debug\net5.0\BookExe.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\obj\Debug\net5.0\BookExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\obj\Debug\net5.0\BookExe.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\obj\Debug\net5.0\BookExe.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\obj\Debug\net5.0\BookExe.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\bin\Debug\net5.0\BookExe.exe
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\bin\Debug\net5.0\BookExe.deps.json
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\bin\Debug\net5.0\BookExe.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\bin\Debug\net5.0\BookExe.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\bin\Debug\net5.0\BookExe.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\bin\Debug\net5.0\ref\BookExe.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\bin\Debug\net5.0\BookExe.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\obj\Debug\net5.0\BookExe.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\obj\Debug\net5.0\ref\BookExe.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\obj\Debug\net5.0\BookExe.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\BookExe\obj\Debug\net5.0\BookExe.genruntimeconfig.cache

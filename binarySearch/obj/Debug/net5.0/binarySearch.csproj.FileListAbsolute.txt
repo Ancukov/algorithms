@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\bin\Debug\net5.0\binarySearch.exe
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\bin\Debug\net5.0\binarySearch.deps.json
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\bin\Debug\net5.0\binarySearch.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\bin\Debug\net5.0\binarySearch.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\bin\Debug\net5.0\binarySearch.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\bin\Debug\net5.0\ref\binarySearch.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\bin\Debug\net5.0\binarySearch.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\obj\Debug\net5.0\binarySearch.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\obj\Debug\net5.0\binarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\obj\Debug\net5.0\binarySearch.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\obj\Debug\net5.0\binarySearch.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\obj\Debug\net5.0\binarySearch.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\obj\Debug\net5.0\binarySearch.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\obj\Debug\net5.0\ref\binarySearch.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\obj\Debug\net5.0\binarySearch.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\binarySearch\obj\Debug\net5.0\binarySearch.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\bin\Debug\net5.0\identicalElements.exe
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\bin\Debug\net5.0\identicalElements.deps.json
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\bin\Debug\net5.0\identicalElements.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\bin\Debug\net5.0\identicalElements.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\bin\Debug\net5.0\identicalElements.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\bin\Debug\net5.0\ref\identicalElements.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\bin\Debug\net5.0\identicalElements.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\obj\Debug\net5.0\identicalElements.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\obj\Debug\net5.0\identicalElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\obj\Debug\net5.0\identicalElements.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\obj\Debug\net5.0\identicalElements.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\obj\Debug\net5.0\identicalElements.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\obj\Debug\net5.0\identicalElements.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\obj\Debug\net5.0\ref\identicalElements.dll
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\obj\Debug\net5.0\identicalElements.pdb
+C:\Users\vlminsadyrova\source\repos\BookExe\identicalElements\obj\Debug\net5.0\identicalElements.genruntimeconfig.cache
